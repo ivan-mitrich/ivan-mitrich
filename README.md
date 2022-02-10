@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ivan
 - 👀 I’m interested in gamedev
-- 🌱 I’m currently learning how to create PC games using C++, Unreal Engine 4
+- 🌱 I’m currently learning C++ and Unreal Engine 4
 - 📫 How to reach me - iskolyar@gmail.com
 
 <!---
