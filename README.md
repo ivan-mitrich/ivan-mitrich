@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ivan
-- 👀 I’m interested in C++ and gamedev. H
+- 👀 I’m interested in C++ and gamedev.
 - 🌱 I’m currently learning C++ and Unreal Engine 4
 - 📫 How to reach me - iskolyar@gmail.com
 
