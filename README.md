@@ -1,12 +1,11 @@
-- 👋 Hi, I’m Ivan
-- 👀 I’m interested in C++ and gamedev.
-- 🌱 I’m currently learning C++ and Unreal Engine 4
-- 📫 How to reach me - iskolyar@gmail.com
+👋 Welcome, stranger!
 
-Here you can find different C++ code samples.
-Repository 'my-patterns' is devoted to implementation of popular programming patterns.
-In 'algorithms-and-data-structured' repository you can find simple code of different algorithms and data structures.
-In 'concurrency-learning' there are my projects where I use some multithreading.
+I’m Ivan (iskolyar@gmail.com). I’m interested in C++ and gamedev now.
+
+In my repositories you can find different C++ code samples:
+- 'my-patterns' - implementation of popular programming patterns.
+- 'algorithms-and-data-structured' - simple code of different algorithms and data structures.
+- 'concurrency-learning' - projects where I use some multithreading.
 
 Each repository is gradually filled up with source files, so if you cant find something popular, dont get upset. It will be here soon.
 
