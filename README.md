@@ -4,7 +4,6 @@ I’m Ivan (iskolyar@gmail.com). I’m interested in C++ and gamedev now.
 
 In my repositories you can find different C++ code samples:
 - 'my-patterns' - implementation of popular programming patterns.
-- 'algorithms-and-data-structured' - simple code of different algorithms and data structures.
 - 'concurrency-learning' - projects where I use some multithreading.
 - 'UE4-simple-sphere-shooter' - Unreal Engine 4 test sphere shooter game based on first person template
 
