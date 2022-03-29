@@ -1,6 +1,6 @@
 👋 Welcome, stranger!
 
-I’m Ivan (iskolyar@gmail.com). I’m interested in C++ and gamedev now.
+I’m Ivan. I’m interested in C++ and gamedev now.
 
 In my repositories you can find different C++ code samples:
 - 'my-patterns' - implementation of popular programming patterns.
