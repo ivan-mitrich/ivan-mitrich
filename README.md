@@ -2,7 +2,7 @@
 
 I’m Ivan. I’m interested in C++ and gamedev now.
 
-In my repositories you can find different C++ code samples:
+In my repositories you can find different C++ code samples and projects:
 - 'my-patterns' - implementation of popular programming patterns.
 - 'concurrency-learning' - projects where I use some multithreading.
 - 'UE4-simple-sphere-shooter' - my small first person shooter game. 
