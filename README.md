@@ -8,7 +8,7 @@ In my repositories you can find different C++ code samples and projects:
 - 'UE4-simple-sphere-shooter' - my small first person shooter game. 
 - 'learning-opengl' - my opengl-cmake learning path 
 
-Each repository is gradually filled up with source files, so if you cant find something popular, dont get upset. It will be here soon.
+Each repository is gradually filled up with source files, so if you cant find something popular, dont get upset. It will be here soon or not:).
 
 <!---
 ivan-mitrich/ivan-mitrich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
